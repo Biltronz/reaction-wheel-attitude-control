@@ -35,6 +35,13 @@ Extension to full 3-D rigid-body dynamics is planned.
 - Attitude convergence
 - Total angular momentum conservation
 
+## Results
+
+![Time histories](figures/graphs.png)
+
+![Angular momentum](figures/momentumgraph.png)
+
+
 ## Author
 Bilal Ahmad
 
