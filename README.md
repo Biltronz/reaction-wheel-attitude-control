@@ -39,7 +39,7 @@ Extension to full 3-D rigid-body dynamics is planned.
 
 ![Time histories](figures/graphs.png)
 
-![Angular momentum](figures/momentum graph.png)
+![Angular momentum](figures/momentum.png)
 
 
 ## Author
