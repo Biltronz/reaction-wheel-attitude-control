@@ -37,5 +37,4 @@ Extension to full 3-D rigid-body dynamics is planned.
 
 ## Author
 Bilal Ahmad 
-
 Aerospace Engineering Student
