@@ -36,5 +36,6 @@ Extension to full 3-D rigid-body dynamics is planned.
 - Total angular momentum conservation
 
 ## Author
-Bilal Ahmad 
+Bilal Ahmad
+
 Aerospace Engineering Student
